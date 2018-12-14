@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  15 DEC 2018 01:22
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  15 DEC 2018 02:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1104,7 +1104,23 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@dima=\skip63
 \bigstrutjot=\dimen256
 )
-No file raft_translation.aux.
+(./raft_translation.aux
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+)
 \openout1 = `raft_translation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 353.
@@ -1123,6 +1139,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 353.
 LaTeX Font Info:    ... okay on input line 353.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 353.
 LaTeX Font Info:    ... okay on input line 353.
+
 -- Lines per column: 42 (approximate, difference = 9.90047pt).
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 353.
@@ -1382,13 +1399,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15530 strings out of 492970
- 381985 string characters out of 6133937
- 469342 words of memory out of 5000000
+ 15532 strings out of 492970
+ 382027 string characters out of 6133937
+ 469392 words of memory out of 5000000
  19374 multiletter control sequences out of 15000+600000
  532682 words of font info for 88 fonts, out of 8000000 for 9000
  1351 hyphenation exceptions out of 8191
