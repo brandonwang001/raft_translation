@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  15 DEC 2018 02:23
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  16 DEC 2018 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1240,12 +1240,15 @@ Underfull \vbox (badness 1210) has occurred while \output is active []
 File: ./fig7.png Graphic file (type bmp)
 <./fig7.png>
 
-[7]
+Underfull \vbox (badness 1616) has occurred while \output is active []
+
+ [7]
 File: ./fig8.png Graphic file (type bmp)
 <./fig8.png>
 File: ./fig9.png Graphic file (type bmp)
 <./fig9.png>
- [8]
+
+[8]
 Underfull \vbox (badness 7631) has occurred while \output is active []
 
  [9]
@@ -1255,10 +1258,12 @@ File: ./fig11.png Graphic file (type bmp)
 <./fig11.png>
 
 [10]
+Underfull \vbox (badness 2050) has occurred while \output is active []
+
 File: ./fig12.png Graphic file (type bmp)
 <./fig12.png>
  [11]
-Overfull \hbox (0.77673pt too wide) in paragraph at lines 991--991
+Overfull \hbox (0.77673pt too wide) in paragraph at lines 992--992
 []\TU/lmr/bx/n/7.52812 lastIncludedIndex| 
  []
 
@@ -1278,27 +1283,27 @@ File: ./fig16.png Graphic file (type bmp)
 Underfull \vbox (badness 2359) has occurred while \output is active []
 
  [15]
-Underfull \hbox (badness 10000) in paragraph at lines 1111--1112
-
- []
-
-
-Underfull \hbox (badness 3646) in paragraph at lines 1112--1113
-[]\TU/lmr/m/n/10.53937 Elaborations of Paxos, which fill in missing
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1112--1113
 
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 1113--1114
-[]\TU/lmr/m/n/10.53937 Systems that implement consensus algorithms,
+Underfull \hbox (badness 3646) in paragraph at lines 1113--1114
+[]\TU/lmr/m/n/10.53937 Elaborations of Paxos, which fill in missing
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1113--1114
+
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 1114--1115
+[]\TU/lmr/m/n/10.53937 Systems that implement consensus algorithms,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1115
 
  []
 
@@ -1309,88 +1314,88 @@ Underfull \vbox (badness 5607) has occurred while \output is active []
 Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 1400) in paragraph at lines 1140--1141
+Underfull \hbox (badness 1400) in paragraph at lines 1141--1142
 \TU/lmr/m/n/10.53937 ated by Lorenzo Alvisi. Spe- cialthanksgotoDavid-
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1140--1141
+Underfull \hbox (badness 2111) in paragraph at lines 1141--1142
 \TU/lmr/m/n/10.53937 cially our shepherd Eddie Kohler. Werner Vogels
  []
 
 [17]
-Underfull \hbox (badness 1742) in paragraph at lines 1365--1366
+Underfull \hbox (badness 1742) in paragraph at lines 1366--1367
 []\TU/lmr/m/n/10.53937 [6] CORBETT, J. C., DEAN, J., EPSTEIN,
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 1365--1366
+Underfull \hbox (badness 4391) in paragraph at lines 1366--1367
 \TU/lmr/m/n/10.53937 M., FIKES, A., FROST, C., FURMAN, J. J.,
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 1365--1366
+Underfull \hbox (badness 4291) in paragraph at lines 1366--1367
 \TU/lmr/m/n/10.53937 GHEMAWAT, S., GUBAREV, A., HEISER, C.,
  []
 
 
-Overfull \hbox (7.36304pt too wide) in paragraph at lines 1371--1372
+Overfull \hbox (7.36304pt too wide) in paragraph at lines 1372--1373
 []\TU/lmr/m/n/10.53937 [9] GRAY,C.,ANDCHERITON,D.Leases:Anefficient
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1372
+Underfull \hbox (badness 10000) in paragraph at lines 1372--1373
 \TU/lmr/m/n/10.53937 consistency. In Proceedings of the 12th ACM
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 1377--1378
+Underfull \hbox (badness 4927) in paragraph at lines 1378--1379
 \TU/lmr/m/n/10.53937 SERAFINI, M. Zab: High-performance broadcast
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1377--1378
+Underfull \hbox (badness 3189) in paragraph at lines 1378--1379
 \TU/lmr/m/n/10.53937 for primary-backup sys- tems. In Proc. DSN\TU/STSong(0)/m/
 n/10.53937 ’| \TU/lmr/m/n/10.53937 11,
  []
 
 [18]
-Underfull \hbox (badness 2142) in paragraph at lines 1398--1399
+Underfull \hbox (badness 2142) in paragraph at lines 1399--1400
 \TU/lmr/m/n/10.53937 stamped replica- tion revisited. Tech. Rep. MIT-
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 1404--1406
+Underfull \hbox (badness 6157) in paragraph at lines 1405--1407
 []\TU/lmr/m/n/10.53937 [25] MAO, Y., JUNQUEIRA, F. P., AND
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1410
 []\TU/lmr/m/n/10.53937 [26] MAZIE‘ RES, D. Paxos made
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1410
 \TU/lmr/m/n/10.53937 practical. http://www.scs.stanford.edu/ ̃dm/home/
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 1423--1424
+Underfull \hbox (badness 2913) in paragraph at lines 1424--1425
 \TU/lmr/m/n/10.53937 ICKSON, D., KOZYRAKIS, C., LEVERICH, J.,
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 1423--1424
+Underfull \hbox (badness 5607) in paragraph at lines 1424--1425
 \TU/lmr/m/n/10.53937 ONGARO, D., PARULKAR, G., ROSENBLUM,
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 1423--1424
+Underfull \hbox (badness 3746) in paragraph at lines 1424--1425
 \TU/lmr/m/n/10.53937 M., RUMBLE, S. M., STRATMANN, E., AND
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
+Underfull \hbox (badness 10000) in paragraph at lines 1426--1427
 []\TU/lmr/m/n/10.53937 [34] Raft consensus algorithm website.
  []
 
@@ -1403,10 +1408,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15532 strings out of 492970
- 382027 string characters out of 6133937
+ 15542 strings out of 492970
+ 382684 string characters out of 6133937
  469392 words of memory out of 5000000
- 19374 multiletter control sequences out of 15000+600000
+ 19384 multiletter control sequences out of 15000+600000
  532682 words of font info for 88 fonts, out of 8000000 for 9000
  1351 hyphenation exceptions out of 8191
  53i,9n,67p,10443b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
