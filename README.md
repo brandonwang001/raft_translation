@@ -1,6 +1,7 @@
 # Raft中文版
 ## 说明
 - ### raft_translation.tex文件为源文件。
+- ### raft_translation.pdf为编译后的完成版pdf。
 - ### 编译需要在XeLaTeX模式下进行编译。
 - ### 引用请标明出处。
 
